@@ -3,22 +3,8 @@ This is a template repository to get the basic structure of testing for good eve
 
 [#testing4good](https://twitter.com/hashtag/Testing4Good)
 
-In this automation best practices workshop you will learn the latest and greatest tools and techniques to drastically improve your testing!
 
-We will focus on a holistic approach of testing front-end and back-end, web and APIs, functional testing, component testing, and many other things in between 😁
 
-This workshop serves 2 purposes:
-
-1. To pay it forward to the testing world and help us all upskill 🚀
-2. For us all to help a cause greater than ourselves 🌍
-
-### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
-
-We build pathways for young women of color to embrace the current tech marketplace as builders and creators by introducing them to skills in computer programming and technology.
-
-Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing the true potential of democracy through diversity and inclusion.
-
-👉 While the event is free, Sauce Labs encourages all attendees to donate to Black Girls Code. Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500
 
 ## 🧠 You will learn
 
@@ -40,11 +26,20 @@ Radical action is needed if we are to close the opportunity gap for Black women 
 
 ## Testing for Good
 
-[#testing4good](https://twitter.com/hashtag/Testing4Good)
+## ✅ Add a call to action about the initiative
 
-Net proceeds from this workshop are donated to Ecosia's Trees that Empower Women! Let's learn together and make the world better together!
+Testing for Good serves 2 purposes:
 
-<img width="500" height="400" alt="Ecosia" src="https://user-images.githubusercontent.com/2136245/165755056-82ef47b0-df56-497e-a546-8792a5227ffd.png">
+1. To pay it forward to the testing world and help us all upskill 🚀
+2. For us all to help a cause greater than ourselves 🌍
+
+### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
+
+We build pathways for young women of color to embrace the current tech marketplace as builders and creators by introducing them to skills in computer programming and technology.
+
+Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing the true potential of democracy through diversity and inclusion.
+
+👉 While the event is free, Sauce Labs encourages all attendees to [donate to Black Girls Code](https://info.saucelabs.com/EVT-Testing-for-Good-Workshops-Registration.html). Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500.
 
 ## Key
 

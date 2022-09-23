@@ -28,18 +28,19 @@ This is a template repository to get the basic structure of testing for good eve
 
 ## ✅ Add a call to action about the initiative
 
-Testing for Good serves 2 purposes:
+### 🌎Testing for Good enables great test automation engineering while shaping a more equitable society.👩‍💻
 
-1. To pay it forward to the testing world and help us all upskill 🚀
-2. For us all to help a cause greater than ourselves 🌍
+Today, we're asking for donations for [Environmental Working Group](https://buy.stripe.com/9AQdU42lj9i7bHGcMN)
 
-### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
+### [About Environmental Working Group](https://www.ewg.org/)
 
-We build pathways for young women of color to embrace the current tech marketplace as builders and creators by introducing them to skills in computer programming and technology.
+We're advocates who won't quit. We're scientists that find solutions. We're people trying to make the safest choices for our health. At the Environmental Working Group, we believe that you should have easy access to the information you need to make smart, healthy choices. It’s this belief that inspired our president and co-founder, Ken Cook, to create EWG.  
 
-Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing the true potential of democracy through diversity and inclusion.
+Since 1993, we've worked tirelessly to protect public health. Whether it's spotlighting harmful industry standards, speaking out against outdated government legislation or empowering consumers with breakthrough education and research, we're in this fight. 
 
-👉 While the event is free, Sauce Labs encourages all attendees to [donate to Black Girls Code]([https://info.saucelabs.com/EVT-Testing-for-Good-Workshops-Registration.html](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500.
+And we're not going anywhere.
+
+👉 While the event is free, Sauce Labs encourages all attendees to [donate](https://buy.stripe.com/9AQdU42lj9i7bHGcMN). Anything helps! 100% of donations go to support the cause.
 
 ## Key
 
@@ -75,20 +76,6 @@ The safest way to ensure that we all have the same environment is for us to [use
 ℹ️ If you have a Screener.io account then do the step below. Otherwise, just copy one of the demo API Keys.
   - Save your Screener API Key by going to the [API key](https://screener.io/v2/account/api-key) page in your Screener settings
      - Need to sign up for [demo account before](https://saucelabs.com/demo-request-vt)
-
-🚨 **If you don't get an API key before the workshop, please use one of the keys below** 🚨
-
-SCREENER_API_KEY:
-
-`34c95634-56fc-446e-b68e-20530262e3f4`
-
-`fe5a0636-fde5-4209-a597-403a76f1b505`
-
-`6b3cc9f4-4578-413c-b5cc-ed7d1b417981`
-
-`6b3cc9f4-4578-413c-b5cc-ed7d1b417981`
-
-`8368adee-4463-4aa4-a441-6e6c58d67665`
 
 ---
 

@@ -40,7 +40,13 @@ Since 1993, we've worked tirelessly to protect public health. Whether it's spotl
 
 And we're not going anywhere.
 
-👉 While the event is free, Sauce Labs encourages all attendees to [donate](https://buy.stripe.com/9AQdU42lj9i7bHGcMN). Anything helps! 100% of donations go to support the cause.
+👉 While the event is free, Sauce Labs encourages all attendees to 
+
+👉 **[donate](https://buy.stripe.com/9AQdU42lj9i7bHGcMN)** 
+
+Anything helps! 
+
+100% of donations go to support the cause.
 
 ## Key
 
